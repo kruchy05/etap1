@@ -1,0 +1,14 @@
+[
+  {
+    "tytul": "Nauczyć się venv",
+    "zrobione": true
+  },
+  {
+    "tytul": "Zapisać JSON",
+    "zrobione": false
+  },
+  {
+    "tytul": "Pobrać dane z GitHuba",
+    "zrobione": false
+  }
+]
